@@ -1,0 +1,231 @@
+.box {
+  position: relative;
+  width: 1920px;
+  height: 1080px;
+}
+
+.box .design-hud {
+  position: fixed;
+  width: 1920px;
+  height: 1080px;
+  top: 0;
+  left: 0;
+  background-image: url(./img/image-1.png);
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.box .group {
+  left: 48px;
+  background: linear-gradient(180deg, rgba(34, 34, 34, 0.8) 50%, rgba(153, 44.62, 44.62, 0.8) 50%);
+  position: absolute;
+  width: 50px;
+  height: 50px;
+  top: 1004px;
+  border-radius: 4px;
+}
+
+.box .vector {
+  position: absolute;
+  width: 25px;
+  height: 22px;
+  top: 14px;
+  left: 12px;
+}
+
+.box .vector-wrapper {
+  left: 255px;
+  background: linear-gradient(180deg, rgb(34, 34, 34) 50%, rgb(97.54, 145.56, 80.67) 50%);
+  position: absolute;
+  width: 50px;
+  height: 50px;
+  top: 1004px;
+  border-radius: 4px;
+}
+
+.box .img {
+  position: absolute;
+  width: 25px;
+  height: 22px;
+  top: 14px;
+  left: 13px;
+}
+
+.box .img-wrapper {
+  left: 186px;
+  background: linear-gradient(180deg, rgb(34, 34, 34) 50%, rgb(38.7, 103.15, 149.81) 50%);
+  position: absolute;
+  width: 50px;
+  height: 50px;
+  top: 1004px;
+  border-radius: 4px;
+}
+
+.box .vector-2 {
+  position: absolute;
+  width: 25px;
+  height: 25px;
+  top: 12px;
+  left: 13px;
+}
+
+.box .div {
+  left: 117px;
+  background: linear-gradient(180deg, rgb(34, 34, 34) 50%, rgb(52.27, 92.57, 153) 50%);
+  position: absolute;
+  width: 50px;
+  height: 50px;
+  top: 1004px;
+  border-radius: 4px;
+}
+
+.box .vector-3 {
+  position: absolute;
+  width: 23px;
+  height: 25px;
+  top: 13px;
+  left: 13px;
+}
+
+.box .fuel {
+  position: absolute;
+  width: 50px;
+  height: 50px;
+  top: 1003px;
+  left: 1722px;
+  border-radius: 4px;
+  background: linear-gradient(180deg, rgb(34, 34, 34) 50%, rgb(255, 206.51, 81.81) 50%);
+}
+
+.box .vector-4 {
+  position: absolute;
+  width: 26px;
+  height: 26px;
+  top: 12px;
+  left: 12px;
+}
+
+.box .overlap {
+  position: absolute;
+  width: 305px;
+  height: 183px;
+  top: 0;
+  left: 1615px;
+}
+
+.box .ID {
+  position: absolute;
+  width: 62px;
+  height: 33px;
+  top: 54px;
+  left: 85px;
+}
+
+.box .overlap-group {
+  position: relative;
+  width: 60px;
+  height: 33px;
+}
+
+.box .rectangle {
+  width: 60px;
+  height: 26px;
+  top: 3px;
+  background-color: #222222;
+  position: absolute;
+  left: 0;
+}
+
+.box .text-wrapper {
+  position: absolute;
+  top: 0;
+  left: 6px;
+  font-family: "Poppins", Helvetica;
+  font-weight: 600;
+  color: #ffffff;
+  font-size: 22px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.box .SSN {
+  position: absolute;
+  width: 147px;
+  height: 33px;
+  top: 87px;
+  left: 0;
+}
+
+.box .overlap-2 {
+  position: relative;
+  width: 145px;
+  height: 33px;
+}
+
+.box .rectangle-2 {
+  position: absolute;
+  width: 145px;
+  height: 26px;
+  top: 3px;
+  left: 0;
+  background-color: #222222;
+}
+
+.box .text-wrapper-2 {
+  position: absolute;
+  width: 142px;
+  top: 0;
+  left: 3px;
+  font-family: "Poppins", Helvetica;
+  font-weight: 600;
+  color: #ffffff;
+  font-size: 22px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.box .logo {
+  position: absolute;
+  width: 183px;
+  height: 183px;
+  top: 0;
+  left: 122px;
+  object-fit: cover;
+}
+
+.box .car-hud {
+  position: absolute;
+  width: 121px;
+  height: 57px;
+  top: 1003px;
+  left: 1783px;
+}
+
+.box .overlap-3 {
+  position: relative;
+  width: 119px;
+  height: 57px;
+}
+
+.box .rectangle-3 {
+  width: 119px;
+  height: 50px;
+  top: 0;
+  border-radius: 4px;
+  background: linear-gradient(180deg, rgb(34, 34, 34) 50%);
+  position: absolute;
+  left: 0;
+}
+
+.box .text-wrapper-3 {
+  position: absolute;
+  width: 112px;
+  top: 8px;
+  left: 7px;
+  font-family: "Poppins", Helvetica;
+  font-weight: 600;
+  color: #ffffff;
+  font-size: 24px;
+  letter-spacing: 0;
+  line-height: normal;
+}
